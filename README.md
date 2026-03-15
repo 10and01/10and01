@@ -10,7 +10,7 @@
 </div>
 
 ---
-![Background](https://raw.githubusercontent.com/10and01/10and01/blob/main/src/background.mp4)]
+![Background](./src/background.jpg)]
 ## 🧑‍💻 About Me
 
 - 🌱 Building tools at the intersection of AI, education, and creative coding.
