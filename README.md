@@ -10,8 +10,7 @@
 </div>
 
 ---
-<video src="./src/background.mp4" width="600" controls autoplay loop muted></video>
-
+[![功能演示视频](./src/background.png)][(https://raw.githubusercontent.com/10and01/10and01/blob/main/src/background.mp4)]
 ## 🧑‍💻 About Me
 
 - 🌱 Building tools at the intersection of AI, education, and creative coding.
