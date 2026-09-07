@@ -4,13 +4,10 @@
 
 **`Unlimited for future.`**
 
-[![GitHub followers](https://img.shields.io/github/followers/10and01?style=flat-square&label=Followers&color=555)](https://github.com/10and01)
-[![Profile Views](https://komarev.com/ghpvc/?username=10and01&style=flat-square&color=blue)](https://github.com/10and01)
-
 </div>
 
 ---
-![Background](./src/background.jpg)]
+![Background](./src/background.jpg)
 ## 🧑‍💻 About Me
 
 - 🌱 Building tools at the intersection of AI, education, and creative coding.
